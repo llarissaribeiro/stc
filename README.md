@@ -6,8 +6,7 @@
 
 
 <h1>💻 Deploy da Aplicação com Netlify/h1>
-
-https://stcpiensayadelgaza.netlify.app/
+<p>https://stcpiensayadelgaza.netlify.app/</p>
   
 <h1>🚀 Tecnologias</h1>
 <li>HTML</li>
